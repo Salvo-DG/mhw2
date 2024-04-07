@@ -21,6 +21,7 @@ Esso prevede il perfezionamento di quanto realizzato nel mini-homework1 attraver
 ## Utilizzo
 Una volta aperto il file [mhw2.html](mhw2.html) con il browser Chrome, è possibile verificare il possesso dei suddetti requisiti ponendo particolare attenzione ai seguenti elementi della pagina web:
 * Menù a comparsa: appare quando con il mouse si passa sopra l'icona "Profilo" (la funzione non è prevista per i dispositivi mobile).
+* Cambio sfondo e sottotitolo header: al click di una delle categorie nell'header, cambiano corrispondentemente sfondo e titolo.
 * Barra di navigazione secondaria fixed: Quando l'header non è più visibile a causa dello scroll verso il basso dell'utente, appare una barra di navigazione secondaria fissata in alto che permette all'utente di poter cambiare categoria senza dover risalire. La barra scompare se l'header torna ad essere visibile.
 * Funzionalità "Aggiungi ai preferiti", "Rimuovi dai preferiti": cliccando sull'icona a forma di cuore è possibile aggiungere un'attività ai preferiti, o se già ne fa parte, rimuoverla. Qui si utilizza la funzione ".createElement()" per suggerire all'utente cosa accade al click delle icone a forma di cuore.
 * Implementazione del menù a tendina nella versione mobile: Allo scopo di ridurre le dimensioni del footer nella versione mobile, il menù è stato contratto ai soli titoli delle sezioni. Spetta all'utente cliccare sulla sezione a cui è interessato per espanderne le voci.
